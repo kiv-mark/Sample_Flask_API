@@ -1,0 +1,33 @@
+[09-19 14:28:41] p16700 {C:/Users/1561768/PycharmProjects/My_API/connection.py:42} DEBUG - User Table Exists
+[09-19 16:39:14] p21788 {C:\Users\1561768\PycharmProjects\My_API\connection.py:87} ERROR - no such column: USERNAME
+[09-19 16:39:14] p21788 {C:\Users\1561768\PycharmProjects\My_API\connection.py:87} ERROR - no such column: USERNAME
+[09-19 16:39:14] p21788 {C:\Users\1561768\PycharmProjects\My_API\connection.py:87} ERROR - no such column: USERNAME
+[09-20 15:30:29] p7948 {C:/Users/1561768/PycharmProjects/My_API/connection.py:46} INFO - User Table Doesn't Exists
+[09-20 15:30:30] p7948 {C:/Users/1561768/PycharmProjects/My_API/connection.py:66} INFO - Added admin user successfully !!
+[09-23 16:01:35] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:35] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:35] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:35] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:01:49] p7412 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:11] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:11] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:11] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:11] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:11] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
+[09-23 16:16:40] p22164 {C:\Users\1561768\PycharmProjects\My_API\database_query.py:28} ERROR - table USERS has 3 columns but 2 values were supplied
