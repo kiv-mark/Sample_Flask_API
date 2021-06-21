@@ -4,7 +4,7 @@ Its a sample API build in Flask for adding User, and Editing it.
 ############################################################################
 
 ## Steps to run the code.
-1. Please install all the packages by running the requirement.txt file.
+1. Please install all the packages by running the requirement.txt file.\n
 $ pip install -r requirements.txt
 
 2. The run the connection.py file
